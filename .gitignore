@@ -19,3 +19,6 @@ Thumbs.db
 # Reports
 reports/
 screenshots/
+
+# Database
+*.db
